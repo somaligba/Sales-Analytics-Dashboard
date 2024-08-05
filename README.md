@@ -86,11 +86,3 @@ The dashboard is designed to work with sample sales data. If you wish to use you
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's style guidelines and includes proper documentation.
 
-
-
-
-
-
----
-
-Feel free to customize the above README.md file to better fit the specifics of your project and any additional information you may have.
